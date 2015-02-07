@@ -4,7 +4,7 @@ import os
 import string
 import subprocess
 
-os.chdir('/Users/dave/DLS001')  #Change to '/Users/dave/DLS001' for final
+os.chdir('/Users/dave/DLS001')
 os.mkdir('fastq_collection')
 os.mkdir('stats_collection')
 
